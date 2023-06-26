@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hey, how's it going?
 
-<!--
-**SANTTIRP/SANTTIRP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.instagram.com/santti.wwp/"><img width="22px" align="left" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" alt="Gb'Gomes Instagram" ></a>
+<a href="https://discord.gg/MgKf33ZqYg"><img width="22px"  align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="Gb'Gomes Discord" ></a>
 
-Here are some ideas to get you started:
+![](https://visitor-badge.glitch.me/badge?page_id=SANTTIRP.SANTTIRP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+Hey, all right? My name is [Bryan Santti](https://www.instagram.com/santti.wwp/), I'm a nerd very passionate about programming. Mostly JavaScript, and today I am a Full-Stack addicted to creating websites, sitemas etc... I'm a person who cares about the architecture and quality of my codes.
+
+<img align="right" alt="GIF" src="https://github.com/SANTTIRP/SANTTIRP/blob/master/code.gif?raw=true" width="500" height="320"/>
+
+- 🛍 any freelance work? do reach, [email](mailto:lopeskaue4321@gmail.com) ou [discord](/https://discord.gg/MgKf33ZqYg)✔
+
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://cdn.discordapp.com/attachments/840233769221750844/996810277444145192/1012812_code_development_logo_php_icon.png"></code>
+<code><img height="20" src="https://cdn.discordapp.com/attachments/840233769221750844/996810570919596072/4375066_logo_sass_icon.png"></code>
+<code><img height="20" src="https://cdn.discordapp.com/attachments/840233769221750844/996817040457347092/317755_badge_html_html5_achievement_award_icon.png"></code>
+<code><img height="20" src="https://cdn.discordapp.com/attachments/840233769221750844/996817238151659691/unknown.png"></code>
+
+✨ **My github stats:**
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SANTTIRP&theme=dark" alt="SANTTIRP" /></p>
